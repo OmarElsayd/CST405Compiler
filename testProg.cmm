@@ -1,0 +1,9 @@
+int x;
+int y;
+int a;
+int b;
+int c;
+int d;
+a * b;
+x + y;
+c / d;
